@@ -1,0 +1,31 @@
+# FitMeal India — Netlify configuration
+# No build step: the app is plain ES modules served as static files.
+
+[build]
+  publish = "."
+  functions = "netlify/functions"
+  command = ""
+
+# SPA fallback so #/ routes and deep links resolve to index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=(self)"
+
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"

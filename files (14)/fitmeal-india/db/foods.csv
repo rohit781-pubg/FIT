@@ -1,0 +1,327 @@
+name,name_local,category,region,is_veg,serving_desc,serving_g,kcal,protein_g,carb_g,fiber_g,fat_g,sat_fat_g,sugar_g,sodium_mg
+Aam panna,,beverage,north,1,1 glass,250,58,0.3,14.0,0.4,0.1,0.0,13.0,120
+Banana shake,,beverage,pan-india,1,1 glass,250,104,2.8,18.0,0.9,2.4,1.5,14.0,35
+Beer,,beverage,pan-india,1,330 ml,330,43,0.5,3.6,0.0,0.0,0.0,0.0,4
+"Black tea / green tea, plain",,beverage,pan-india,1,1 cup,150,1,0.0,0.2,0.0,0.0,0.0,0.0,3
+Buttermilk (chaas),,beverage,pan-india,1,1 glass,200,26,1.4,2.6,0.0,1.0,0.6,2.4,140
+Coconut water,,beverage,south,1,1 glass,250,19,0.7,3.7,1.1,0.2,0.2,2.6,105
+"Cola, regular",,beverage,pan-india,1,330 ml can,330,42,0.0,10.6,0.0,0.0,0.0,10.6,5
+Filter coffee with sugar,,beverage,south,1,1 cup,120,72,2.0,10.0,0.0,2.6,1.6,9.0,28
+"Lassi, salted",,beverage,punjab,1,1 glass,250,54,2.8,4.4,0.0,2.8,1.8,4.2,220
+"Lassi, sweet",,beverage,punjab,1,1 glass,250,108,2.6,16.0,0.0,3.4,2.2,15.0,50
+Mango shake,,beverage,pan-india,1,1 glass,250,98,2.4,17.0,0.7,2.4,1.5,15.0,35
+Masala chai with sugar,,beverage,pan-india,1,1 cup,150,62,1.8,9.0,0.0,2.2,1.4,8.0,25
+"Nimbu pani (salted, no sugar)",,beverage,pan-india,1,1 glass,250,6,0.1,1.4,0.1,0.0,0.0,0.6,220
+Nimbu pani (sweet),,beverage,pan-india,1,1 glass,250,42,0.1,10.6,0.1,0.0,0.0,10.4,8
+Packaged fruit juice,,beverage,pan-india,1,200 ml,200,50,0.2,12.0,0.2,0.1,0.0,11.4,12
+Sugarcane juice,,beverage,pan-india,1,1 glass,250,74,0.2,18.0,0.2,0.1,0.0,17.0,10
+Tea without sugar (milk),,beverage,pan-india,1,1 cup,150,28,1.6,2.4,0.0,1.4,0.9,2.2,22
+Thandai,,beverage,north,1,1 glass,250,132,3.6,18.0,0.8,5.2,2.4,16.0,40
+Whisky / rum (40%),,beverage,pan-india,1,30 ml peg,30,250,0.0,0.0,0.0,0.0,0.0,0.0,1
+"Wine, red",,beverage,pan-india,1,150 ml,150,85,0.1,2.6,0.0,0.0,0.0,0.6,4
+Aloo paratha,,bread,punjab,1,1 paratha,120,255,6.2,36.0,4.2,9.6,3.4,1.4,320
+Appam,,bread,kerala,1,1 appam,70,145,2.6,28.0,1.2,2.4,1.6,3.0,120
+Bajra roti,,bread,rajasthan,1,1 roti,50,318,10.4,58.0,10.2,5.8,1.4,1.0,120
+Bhatura,,bread,punjab,1,1 bhatura,90,382,8.0,48.0,2.4,18.0,7.2,2.6,340
+Brown/whole wheat bread slice,,bread,pan-india,1,2 slices,56,245,10.4,43.0,6.4,3.6,0.8,4.4,450
+Butter naan,,bread,north,1,1 naan,95,352,8.6,50.0,2.1,13.0,6.5,4.2,450
+Garlic naan,,bread,north,1,1 naan,95,330,9.2,51.0,2.4,10.0,4.4,3.8,470
+Gobi paratha,,bread,punjab,1,1 paratha,115,240,6.8,32.0,5.0,9.8,3.5,2.2,330
+Jowar roti,Bhakri,bread,maharashtra,1,1 roti,55,300,9.4,60.0,8.8,2.8,0.7,0.9,110
+Kerala parotta,,bread,kerala,1,1 parotta,80,362,7.4,48.0,2.0,15.6,7.2,2.0,420
+"Kulcha (amritsari, stuffed)",,bread,punjab,1,1 kulcha,110,300,7.6,45.0,2.8,9.8,4.2,3.0,460
+Luchi,,bread,east,1,2 luchis,40,440,7.8,49.0,2.0,24.0,9.6,0.8,200
+Makki di roti,,bread,punjab,1,1 roti,70,306,8.2,60.0,6.8,4.0,1.0,1.2,140
+Methi thepla,,bread,gujarat,1,1 thepla,35,330,9.4,46.0,6.6,12.6,3.4,1.6,380
+Missi roti,,bread,rajasthan,1,1 roti,55,312,11.6,48.0,8.4,8.4,2.0,1.4,360
+Mooli paratha,,bread,north,1,1 paratha,115,222,6.0,31.0,4.4,8.4,3.0,1.8,310
+Naan (plain),,bread,north,1,1 naan,90,310,9.0,52.0,2.2,7.2,2.6,4.0,430
+Neer dosa,,bread,south,1,2 pieces,90,128,2.2,26.0,0.8,1.6,1.0,0.6,110
+Paneer paratha,,bread,north,1,1 paratha,125,292,11.4,32.0,3.6,13.2,6.8,1.8,340
+"Paratha (plain, 1 tsp oil)",,bread,pan-india,1,1 paratha,60,326,8.6,47.0,6.5,11.8,3.6,1.0,260
+Pav (bread roll),,bread,maharashtra,1,1 pav,45,275,8.4,52.0,2.2,3.2,1.4,4.0,480
+Puran poli,,bread,maharashtra,1,1 piece,80,330,7.2,55.0,3.6,9.0,4.4,22.0,90
+Puri (deep fried),,bread,pan-india,1,2 puris,40,436,8.4,48.0,5.8,23.4,9.0,0.8,190
+Ragi roti,Nachni bhakri,bread,south,1,1 roti,60,288,7.4,62.0,9.6,2.2,0.5,0.6,115
+"Roti (whole wheat, no ghee)",Phulka,bread,pan-india,1,1 medium roti,35,297,11.0,57.0,9.5,3.2,0.6,0.8,180
+Roti with ghee,Chupati,bread,pan-india,1,1 medium roti,38,348,10.2,53.0,8.8,10.5,5.4,0.8,180
+Rumali roti,,bread,north,1,1 roti,45,305,8.4,60.0,2.6,3.0,0.6,1.0,300
+Tandoori roti,,bread,north,1,1 roti,60,290,9.8,55.0,8.0,3.5,0.7,1.2,320
+White bread slice,,bread,pan-india,1,2 slices,50,265,8.0,49.0,2.4,3.2,0.8,5.0,490
+Appam with stew (veg),,breakfast,kerala,1,1 plate,250,146,3.2,20.0,1.8,6.0,4.0,2.4,240
+"Dalia (broken wheat porridge, savoury)",,breakfast,north,1,1 katori,180,118,3.8,21.0,3.2,2.2,0.6,0.8,220
+Idiyappam,,breakfast,kerala,1,3 pieces,120,142,2.6,30.0,1.2,1.2,0.8,0.4,95
+Idli,,breakfast,south,1,2 idlis,100,132,4.6,26.0,1.2,0.6,0.1,0.4,190
+Masala dosa,,breakfast,south,1,1 dosa,180,186,4.0,28.0,2.0,6.4,1.8,1.2,300
+Pesarattu,,breakfast,andhra,1,1 piece,120,178,8.4,24.0,3.4,5.6,1.2,1.2,270
+Plain dosa,,breakfast,south,1,1 dosa,90,168,4.2,28.0,1.4,4.2,1.0,0.6,250
+Poha (kanda batata),,breakfast,maharashtra,1,1 plate,150,158,2.8,27.0,1.8,4.4,0.8,1.4,290
+Pongal (ven),,breakfast,tamil,1,1 katori,180,172,5.0,24.0,1.8,6.2,3.4,0.6,300
+Puttu,,breakfast,kerala,1,1 piece,120,140,3.0,29.0,2.0,1.4,0.9,0.8,90
+Rava dosa,,breakfast,south,1,1 dosa,120,204,4.0,28.0,1.2,8.4,2.0,0.8,320
+Rava idli,,breakfast,karnataka,1,2 idlis,110,158,4.4,26.0,1.4,3.8,1.4,0.8,280
+Sabudana khichdi,,breakfast,maharashtra,1,1 katori,150,268,3.6,40.0,1.6,10.4,1.8,1.2,260
+Set dosa,,breakfast,karnataka,1,2 pieces,120,172,4.4,28.0,1.4,4.6,1.2,0.8,260
+Upma (rava),,breakfast,south,1,1 katori,160,166,3.6,25.0,1.6,5.8,1.4,1.0,320
+Upma with sambar,,breakfast,south,1,1 plate,250,140,4.0,20.0,2.2,4.8,1.2,1.4,330
+Uttapam (onion),,breakfast,south,1,1 piece,150,164,4.4,26.0,1.8,4.8,1.2,1.4,280
+Vermicelli upma,Semiya upma,breakfast,south,1,1 katori,160,172,4.0,27.0,1.4,5.4,1.2,1.2,300
+Boondi raita,,condiment,north,1,1 katori,150,108,3.6,10.0,0.6,5.8,2.4,3.8,320
+Coconut chutney,,condiment,south,1,2 tbsp,30,186,3.2,7.0,4.4,16.4,13.0,2.6,280
+Green chutney (coriander-mint),,condiment,pan-india,1,1 tbsp,15,86,2.6,8.0,3.4,4.6,0.6,2.0,420
+Mango pickle,Aam ka achar,condiment,pan-india,1,1 tsp,8,310,1.4,12.0,3.0,28.0,4.0,4.0,3400
+"Papad, fried",,condiment,pan-india,1,1 papad,14,480,18.0,42.0,8.0,26.0,5.0,1.0,1900
+"Papad, roasted",,condiment,pan-india,1,1 papad,12,330,22.0,50.0,9.0,3.0,0.7,1.0,2100
+Podi (gunpowder) with oil,,condiment,south,1,1 tbsp,12,420,16.0,38.0,12.0,22.0,4.0,2.0,780
+Raita (cucumber),,condiment,pan-india,1,1 katori,150,52,2.6,4.6,0.5,2.6,1.6,3.6,240
+Tomato chutney,,condiment,south,1,2 tbsp,30,88,1.6,8.0,1.8,5.6,1.2,4.0,320
+Tomato ketchup,,condiment,pan-india,1,1 tbsp,15,102,1.0,25.0,0.4,0.1,0.0,22.0,900
+Baby corn masala,,curry,pan-india,1,1 katori,150,132,3.4,14.0,2.6,7.2,2.2,3.0,340
+Butter chicken,Murgh makhani,curry,punjab,0,1 katori,150,238,14.6,7.0,1.0,17.4,8.8,4.0,420
+Chicken chettinad,,curry,tamil,0,1 katori,150,206,17.4,5.4,1.6,13.0,5.8,1.4,400
+Chicken curry (home style),,curry,pan-india,0,1 katori,150,180,16.0,4.6,1.0,11.0,3.6,1.6,380
+Chicken kolhapuri,,curry,maharashtra,0,1 katori,150,214,17.0,6.0,1.8,13.4,5.4,1.6,420
+Chicken korma,,curry,north,0,1 katori,150,232,15.2,7.0,1.0,16.4,6.6,3.0,400
+Chicken tikka (dry),,curry,punjab,0,4 pieces,120,190,25.0,3.2,0.4,8.4,3.0,1.6,540
+Dum aloo,,curry,kashmir,1,1 katori,150,178,3.0,19.0,2.4,10.2,3.6,3.4,350
+Egg curry,,curry,pan-india,0,1 katori (2 eggs),180,164,9.6,5.4,1.0,11.6,4.0,2.0,360
+Fish curry (coconut),,curry,kerala,0,1 katori,150,166,15.4,4.4,0.9,9.6,5.6,1.6,380
+Fish fry (rawa),,curry,west,0,1 piece,100,232,20.0,10.0,0.6,12.8,3.0,0.6,450
+Gatte ki sabzi,,curry,rajasthan,1,1 katori,150,188,7.0,16.0,3.0,10.6,3.8,2.2,380
+Kadai paneer,,curry,north,1,1 katori,150,206,9.8,9.0,2.4,14.6,7.6,3.6,380
+Keema matar,,curry,north,0,1 katori,150,236,17.4,6.4,2.2,15.6,6.4,1.8,390
+Malai kofta,,curry,north,1,1 katori,150,272,7.4,16.0,2.2,20.4,9.8,5.6,410
+Matar paneer,,curry,north,1,1 katori,150,184,9.0,11.0,3.0,11.8,6.2,3.4,360
+Mushroom masala,,curry,pan-india,1,1 katori,150,118,4.4,8.0,2.2,7.8,2.4,2.6,340
+Mutton curry (home style),,curry,pan-india,0,1 katori,150,248,17.0,4.0,0.8,18.0,7.4,1.4,380
+Mutton rogan josh,,curry,kashmir,0,1 katori,150,258,17.6,4.6,0.9,19.0,8.0,1.6,400
+Navratan korma,,curry,north,1,1 katori,150,196,5.2,15.0,2.8,13.0,6.4,6.0,380
+Palak paneer,,curry,punjab,1,1 katori,150,168,8.4,7.0,2.6,11.8,6.0,2.0,340
+Paneer butter masala,,curry,north,1,1 katori,150,248,9.6,10.0,1.8,19.4,10.6,5.2,400
+Prawn masala,,curry,west,0,1 katori,150,162,17.0,5.0,0.8,8.4,3.2,1.6,420
+Rohu fish curry,,curry,east,0,1 katori,150,158,16.2,3.6,0.8,8.8,2.6,1.2,360
+Shahi paneer,,curry,north,1,1 katori,150,262,9.2,11.0,1.6,20.6,11.0,6.4,390
+Soya chunk curry,,curry,pan-india,1,1 katori,150,148,14.0,9.0,3.6,6.4,1.6,2.2,360
+Tandoori chicken (with skin),,curry,punjab,0,1 leg piece,150,216,24.6,2.4,0.3,12.0,4.0,1.0,520
+Amul masti dahi (packaged),,dairy,pan-india,1,1 cup,100,62,3.2,5.0,0.0,3.2,2.0,4.8,55
+"Cheese, processed slice",,dairy,pan-india,1,1 slice,20,320,20.0,2.6,0.0,26.0,16.0,1.4,1200
+"Curd (dahi), full fat",,dairy,pan-india,1,1 katori,150,60,3.1,4.7,0.0,3.3,2.1,4.4,46
+"Curd, low fat",,dairy,pan-india,1,1 katori,150,44,3.5,4.9,0.0,1.2,0.8,4.6,48
+"Greek yoghurt, plain",,dairy,pan-india,1,1 katori,150,59,10.0,3.6,0.0,0.4,0.1,3.2,36
+Khoya / mawa,,dairy,pan-india,1,30 g,30,421,14.6,20.0,0.0,31.0,19.5,20.0,80
+Malai / fresh cream,,dairy,pan-india,1,1 tbsp,15,292,2.2,3.0,0.0,30.0,19.0,3.0,30
+"Milk, buffalo, full fat",,dairy,pan-india,1,1 glass,200,97,3.8,5.0,0.0,6.5,4.2,5.0,52
+"Milk, cow, full fat",,dairy,pan-india,1,1 glass,200,67,3.2,4.7,0.0,4.1,2.4,4.7,49
+"Milk, double toned",,dairy,pan-india,1,1 glass,200,42,3.1,4.8,0.0,1.5,1.0,4.8,50
+"Milk, toned",,dairy,pan-india,1,1 glass,200,58,3.1,4.8,0.0,3.0,1.9,4.8,50
+Mozzarella cheese,,dairy,pan-india,1,30 g,30,280,22.0,2.2,0.0,20.0,12.0,1.2,620
+"Paneer, full fat",,dairy,pan-india,1,50 g,50,296,18.3,1.2,0.0,23.0,14.0,1.2,22
+"Paneer, low fat",,dairy,pan-india,1,50 g,50,206,22.0,2.0,0.0,12.0,7.4,2.0,25
+Tofu,,dairy,pan-india,1,50 g,50,76,8.0,1.9,0.3,4.8,0.7,0.6,7
+Chana dal,,dal,pan-india,1,1 katori,150,138,7.4,16.0,5.0,4.8,1.6,1.4,300
+Chole (chana masala),,dal,punjab,1,1 katori,150,164,7.4,20.0,6.4,6.2,1.6,3.0,380
+Dal fry,,dal,north,1,1 katori,150,132,6.0,13.4,3.2,6.0,2.6,1.2,320
+Dal makhani,,dal,punjab,1,1 katori,150,178,6.8,14.0,4.6,10.4,5.6,1.6,340
+Dal tadka (arhar/toor),,dal,north,1,1 katori,150,118,6.2,13.0,3.4,4.4,1.8,1.0,300
+Dhokli / dal dhokli,,dal,gujarat,1,1 katori,200,152,6.2,22.0,3.2,4.4,1.4,2.8,320
+Gujarati dal (sweet-sour),,dal,gujarat,1,1 katori,150,114,5.4,15.0,3.0,3.6,1.2,4.6,300
+Kadhi (besan-curd),,dal,north,1,1 katori,150,96,3.6,8.2,1.2,5.4,2.2,2.6,330
+Lobia (black-eyed peas) curry,,dal,north,1,1 katori,150,138,7.6,18.0,5.6,4.0,1.2,2.2,340
+Masoor dal,,dal,pan-india,1,1 katori,150,112,7.0,13.0,3.6,3.4,1.4,1.0,290
+Panchmel dal,,dal,rajasthan,1,1 katori,150,132,7.0,15.0,4.2,5.0,2.0,1.2,310
+Rajma masala,,dal,punjab,1,1 katori,150,148,7.0,19.0,6.0,4.8,1.6,2.4,360
+Rasam,,dal,south,1,1 katori,150,42,1.4,5.6,1.0,1.6,0.4,1.4,360
+Sambar,,dal,south,1,1 katori,150,92,3.8,11.0,2.8,3.6,0.8,2.0,340
+Sprouted moong salad,,dal,pan-india,1,1 katori,100,102,7.6,15.0,3.4,1.2,0.3,2.4,180
+Urad dal (kaali dal),,dal,north,1,1 katori,150,142,7.2,15.0,4.4,5.8,2.4,1.0,310
+Yellow moong dal,,dal,pan-india,1,1 katori,150,104,6.6,12.4,3.0,3.0,1.2,0.8,280
+Butter,,fat,pan-india,1,1 tsp,5,717,0.9,0.1,0.0,81.0,51.0,0.1,11
+Coconut oil,,fat,south,1,1 tsp,5,862,0.0,0.0,0.0,100.0,82.5,0.0,0
+Ghee,,fat,pan-india,1,1 tsp,5,900,0.0,0.0,0.0,100.0,62.0,0.0,2
+Groundnut oil,,fat,pan-india,1,1 tsp,5,884,0.0,0.0,0.0,100.0,17.0,0.0,0
+Mustard oil,,fat,pan-india,1,1 tsp,5,884,0.0,0.0,0.0,100.0,11.6,0.0,0
+Sunflower oil,,fat,pan-india,1,1 tsp,5,884,0.0,0.0,0.0,100.0,10.3,0.0,0
+Amla,,fruit,pan-india,1,1 medium,50,58,0.5,13.7,3.4,0.6,0.1,7.0,5
+Apple,Seb,fruit,pan-india,1,1 medium,180,52,0.3,13.8,2.4,0.2,0.0,10.4,1
+Banana,Kela,fruit,pan-india,1,1 medium,120,89,1.1,22.8,2.6,0.3,0.1,12.2,1
+Chikoo (sapota),,fruit,pan-india,1,1 medium,100,83,0.4,20.0,5.3,1.1,0.2,15.0,12
+Custard apple,Sitaphal,fruit,pan-india,1,1 medium,150,94,2.1,23.6,4.4,0.3,0.1,17.0,4
+Dates,Khajur,fruit,pan-india,1,3 pieces,25,282,2.5,75.0,8.0,0.4,0.0,63.0,2
+Grapes,Angoor,fruit,pan-india,1,1 katori,100,69,0.7,18.1,0.9,0.2,0.1,15.5,2
+Guava,Amrood,fruit,pan-india,1,1 medium,120,68,2.6,14.3,5.4,1.0,0.3,8.9,2
+Jamun,,fruit,pan-india,1,1 katori,100,62,0.7,15.6,0.6,0.2,0.0,14.0,14
+Litchi,,fruit,east,1,6 pieces,100,66,0.8,16.5,1.3,0.4,0.1,15.2,1
+"Mango, ripe",Aam,fruit,pan-india,1,1 medium,200,60,0.8,15.0,1.6,0.4,0.1,13.7,1
+Muskmelon,Kharbuja,fruit,pan-india,1,1 katori,200,34,0.8,8.2,0.9,0.2,0.1,7.9,16
+Orange,Santra,fruit,pan-india,1,1 medium,150,47,0.9,11.8,2.4,0.1,0.0,9.4,0
+Papaya,Papita,fruit,pan-india,1,1 katori,150,43,0.5,10.8,1.7,0.3,0.1,7.8,8
+Pineapple,Ananas,fruit,pan-india,1,1 katori,150,50,0.5,13.1,1.4,0.1,0.0,9.9,1
+Pomegranate,Anaar,fruit,pan-india,1,1 katori,150,83,1.7,18.7,4.0,1.2,0.1,13.7,3
+Raisins,Kishmish,fruit,pan-india,1,20 g,20,299,3.1,79.0,3.7,0.5,0.1,59.0,11
+Watermelon,Tarbooz,fruit,pan-india,1,1 katori,200,30,0.6,7.6,0.4,0.2,0.0,6.2,1
+Almonds,Badam,nuts,pan-india,1,10 pieces,12,579,21.2,21.6,12.5,49.9,3.8,4.4,1
+Cashew,Kaju,nuts,pan-india,1,10 pieces,15,553,18.2,30.2,3.3,43.9,7.8,5.9,12
+Chia seeds,,nuts,pan-india,1,1 tbsp,12,486,16.5,42.1,34.4,30.7,3.3,0.0,16
+"Coconut, fresh grated",Nariyal,nuts,south,1,2 tbsp,20,354,3.3,15.2,9.0,33.5,29.7,6.2,20
+Flax seeds,Alsi,nuts,pan-india,1,1 tbsp,10,534,18.3,28.9,27.3,42.2,3.7,1.6,30
+Peanut butter,,nuts,pan-india,1,1 tbsp,16,588,25.1,20.0,6.0,50.4,10.3,9.2,17
+"Peanuts, roasted",Moongphali,nuts,pan-india,1,25 g,25,567,25.8,16.1,8.5,49.2,6.3,4.7,18
+Pistachio,Pista,nuts,pan-india,1,15 pieces,15,560,20.2,27.2,10.6,45.3,5.9,7.7,1
+Pumpkin seeds,,nuts,pan-india,1,1 tbsp,12,559,30.2,10.7,6.0,49.1,8.7,1.4,7
+Sesame seeds,Til,nuts,pan-india,1,1 tbsp,10,573,17.7,23.4,11.8,49.7,7.0,0.3,11
+Walnut,Akhrot,nuts,pan-india,1,4 halves,12,654,15.2,13.7,6.7,65.2,6.1,2.6,2
+"Bajra, dry",,pantry,rajasthan,1,30 g,30,361,11.6,67.5,11.5,5.0,0.9,1.0,12
+"Besan, dry",,pantry,pan-india,1,30 g,30,387,22.4,57.8,10.8,6.7,0.7,10.3,64
+Honey,Shahad,pantry,pan-india,1,1 tsp,7,304,0.3,82.4,0.2,0.0,0.0,82.1,4
+"Jowar, dry",,pantry,maharashtra,1,30 g,30,349,10.4,72.6,9.7,1.9,0.3,0.9,7
+"Kabuli chana, dry",,pantry,pan-india,1,30 g dry,30,360,18.7,61.0,16.0,5.3,0.6,10.7,24
+"Masoor dal, dry",,pantry,pan-india,1,30 g dry,30,343,25.1,59.0,15.6,1.1,0.2,2.0,10
+"Moong dal, dry",,pantry,pan-india,1,30 g dry,30,334,24.0,56.7,16.3,1.2,0.3,2.0,15
+"Oats, rolled dry",,pantry,pan-india,1,40 g,40,389,16.9,66.3,10.6,6.9,1.2,0.9,2
+"Poha, dry",,pantry,pan-india,1,40 g,40,346,6.6,77.3,2.4,1.2,0.3,0.4,10
+"Quinoa, dry",,pantry,pan-india,1,40 g,40,368,14.1,64.2,7.0,6.1,0.7,4.6,5
+"Ragi flour, dry",,pantry,south,1,30 g,30,328,7.3,72.0,11.5,1.3,0.2,0.5,11
+"Rajma, dry",,pantry,pan-india,1,30 g dry,30,333,22.9,60.0,15.2,1.3,0.2,2.1,12
+"Rava / sooji, dry",,pantry,pan-india,1,40 g,40,360,10.4,74.8,3.9,1.1,0.2,0.5,3
+"Rice, raw white",,pantry,pan-india,1,50 g dry,50,356,7.9,78.2,2.8,0.5,0.1,0.1,5
+Sambar dal (arhar) uncooked,,pantry,pan-india,1,30 g dry,30,335,22.3,57.6,15.5,1.7,0.4,2.5,17
+"Soya chunks, dry",,pantry,pan-india,1,25 g dry,25,345,52.0,33.0,13.0,0.5,0.1,2.0,20
+Sugar,Cheeni,pantry,pan-india,1,1 tsp,5,398,0.0,99.4,0.0,0.0,0.0,99.4,1
+"Wheat flour (atta), dry",,pantry,pan-india,1,30 g,30,341,12.1,69.4,11.4,1.7,0.3,0.4,2
+Boiled egg,,protein,pan-india,0,1 large egg,50,155,12.6,1.1,0.0,10.6,3.3,1.1,124
+"Chicken breast, grilled plain",,protein,pan-india,0,100 g,100,165,31.0,0.0,0.0,3.6,1.0,0.0,74
+Egg bhurji,,protein,pan-india,0,1 katori,140,190,12.4,3.6,0.8,14.0,4.4,1.8,330
+Egg omelette (1 tsp oil),,protein,pan-india,0,2-egg omelette,120,196,13.0,2.0,0.3,15.0,4.4,1.2,290
+Bisi bele bath,,rice,karnataka,1,1 katori,200,158,5.2,24.0,3.0,4.6,1.4,1.8,320
+"Brown rice, boiled",,rice,pan-india,1,1 katori,150,123,2.6,25.6,1.8,1.0,0.2,0.4,4
+Chicken biryani,,rice,hyderabad,0,1 plate,280,205,9.6,24.0,1.4,8.0,3.2,1.2,360
+Curd rice,Thayir sadam,rice,south,1,1 katori,180,118,3.4,18.0,0.6,3.2,1.8,2.2,230
+Egg biryani,,rice,hyderabad,0,1 plate,260,192,7.2,25.0,1.6,7.0,2.6,1.4,340
+Fried rice (veg),,rice,pan-india,1,1 katori,180,172,3.8,28.0,1.6,5.0,1.0,1.6,420
+Ghee rice,Nei choru,rice,kerala,1,1 katori,160,196,3.2,29.0,0.7,7.4,4.4,0.6,250
+Jeera rice,,rice,north,1,1 katori,150,175,3.0,29.0,0.8,5.2,2.4,0.2,220
+Kadhi chawal (combined),,rice,north,1,1 plate,250,138,4.4,20.0,1.2,4.4,1.8,2.6,300
+Khichdi (moong dal),,rice,pan-india,1,1 katori,200,128,4.8,20.0,2.2,3.2,1.4,0.6,240
+Lemon rice,Chitranna,rice,south,1,1 katori,160,168,3.2,27.0,1.4,5.2,1.0,0.8,290
+Mutton biryani,,rice,hyderabad,0,1 plate,280,232,10.4,23.0,1.4,11.2,4.6,1.2,370
+"Rice, plain boiled (white)",Chawal,rice,pan-india,1,1 katori,150,130,2.7,28.2,0.4,0.3,0.1,0.1,2
+Tamarind rice,Puliyodarai,rice,tamil,1,1 katori,160,182,3.8,29.0,2.0,5.6,1.2,3.2,380
+Tomato rice,,rice,south,1,1 katori,160,162,3.2,26.0,1.6,5.0,1.2,2.0,300
+Veg biryani,,rice,hyderabad,1,1 plate,250,184,4.2,28.0,2.2,6.2,2.6,1.8,330
+Veg pulao,,rice,north,1,1 katori,180,168,3.6,27.0,2.0,5.0,1.8,1.6,260
+Aloo gobi,,sabzi,north,1,1 katori,150,128,3.0,14.0,3.4,6.8,1.6,2.8,320
+Aloo matar,,sabzi,north,1,1 katori,150,122,3.6,15.0,3.6,5.6,1.4,2.6,310
+Aloo methi,,sabzi,north,1,1 katori,140,124,2.8,15.0,3.2,6.2,1.4,1.4,300
+Aloo posto,,sabzi,east,1,1 katori,140,176,3.8,17.0,2.8,10.4,2.0,1.6,300
+Avial,,sabzi,kerala,1,1 katori,150,124,2.8,9.6,3.2,8.4,5.6,3.0,290
+Baingan bharta,,sabzi,punjab,1,1 katori,150,98,2.0,8.6,3.4,6.4,1.6,3.6,310
+Beans poriyal,,sabzi,south,1,1 katori,120,94,2.8,9.0,3.6,5.0,2.4,2.6,260
+Bharli vangi,,sabzi,maharashtra,1,1 katori,150,166,3.8,12.0,4.0,11.4,4.0,3.0,330
+Bharwa bhindi,,sabzi,north,1,1 katori,130,142,3.4,11.0,4.4,9.4,1.8,2.6,320
+Bhindi masala,,sabzi,pan-india,1,1 katori,130,116,2.2,9.4,4.0,7.8,1.8,2.4,300
+Cabbage poriyal,,sabzi,south,1,1 katori,120,86,2.2,8.4,3.0,4.8,2.2,3.2,260
+Jeera aloo,,sabzi,north,1,1 katori,130,146,2.4,19.0,2.2,7.0,1.6,1.2,290
+Karela sabzi,,sabzi,pan-india,1,1 katori,120,110,2.0,9.0,3.4,7.4,1.8,2.0,300
+Ker sangri,,sabzi,rajasthan,1,1 katori,100,178,4.6,14.0,7.4,11.4,3.0,2.4,420
+Lauki sabzi,Dudhi,sabzi,pan-india,1,1 katori,150,62,1.2,6.2,1.6,3.6,1.0,2.6,280
+Mixed veg curry,,sabzi,pan-india,1,1 katori,150,106,3.0,11.0,3.4,5.6,1.6,3.0,310
+Olan,,sabzi,kerala,1,1 katori,150,104,2.0,7.0,2.0,7.6,5.8,2.6,250
+Palak (spinach) sabzi,,sabzi,pan-india,1,1 katori,150,88,3.4,6.0,3.0,5.6,1.6,1.2,300
+Sarson da saag,,sabzi,punjab,1,1 katori,150,116,4.2,7.4,4.0,7.6,3.0,1.4,320
+Shukto,,sabzi,east,1,1 katori,150,96,2.6,9.0,2.8,5.4,2.4,2.2,280
+Thoran (cabbage/coconut),,sabzi,kerala,1,1 katori,120,110,2.6,8.0,3.4,7.6,5.2,2.8,270
+Tinda sabzi,,sabzi,punjab,1,1 katori,150,68,1.6,6.8,2.0,4.0,1.0,2.4,280
+Undhiyu,,sabzi,gujarat,1,1 katori,150,176,5.0,16.0,5.2,10.2,3.0,3.4,340
+Aloo bhujia,,snack,rajasthan,1,30 g,30,556,10.0,48.0,4.0,36.0,10.0,2.0,980
+Bhuna chana with jaggery,,snack,pan-india,1,30 g,30,378,17.0,64.0,14.0,4.4,0.6,18.0,30
+Bread pakora,,snack,north,1,1 piece,90,318,6.6,34.0,2.4,17.6,4.2,2.6,520
+Chakli / murukku,,snack,pan-india,1,30 g,30,510,8.6,54.0,3.4,29.0,9.0,1.0,620
+Chana masala dry (sundal),,snack,south,1,1 katori,100,148,7.6,20.0,6.0,4.2,2.2,2.4,280
+Chicken 65,,snack,tamil,0,6 pieces,120,268,20.0,12.0,0.8,15.6,4.2,1.6,680
+Cutlet (veg),,snack,east,1,2 pieces,100,236,4.6,28.0,3.0,11.6,2.8,2.6,460
+Dahi vada,,snack,north,1,2 vadas,140,178,6.0,18.0,2.0,8.8,3.0,4.2,360
+Dhokla,,snack,gujarat,1,2 pieces,100,158,6.4,22.0,2.6,4.6,1.0,4.6,380
+Fafda,,snack,gujarat,1,30 g,30,468,12.0,44.0,4.4,26.0,6.0,1.4,620
+Gobi manchurian,,snack,pan-india,1,1 plate,150,204,4.0,24.0,2.6,10.4,2.4,4.4,620
+Handvo,,snack,gujarat,1,1 slice,90,206,7.2,26.0,3.2,8.2,2.0,3.0,400
+Khakhra,,snack,gujarat,1,2 pieces,25,400,11.0,64.0,8.0,11.0,3.0,1.2,420
+Khandvi,,snack,gujarat,1,4 rolls,80,168,6.0,16.0,1.6,8.8,3.4,3.0,340
+"Makhana, roasted plain",,snack,bihar,1,20 g,20,347,9.7,77.0,14.5,0.1,0.0,0.0,12
+Medu vada,,snack,south,1,2 vadas,80,282,7.6,28.0,3.0,15.6,3.4,0.8,340
+Mirchi bajji,,snack,andhra,1,2 pieces,100,296,6.6,28.0,4.2,18.0,4.2,2.4,500
+Muthiya,,snack,gujarat,1,3 pieces,90,214,7.0,29.0,4.2,7.6,1.6,3.2,380
+Namkeen mixture,,snack,pan-india,1,30 g,30,542,13.0,46.0,5.0,34.0,9.0,3.0,940
+Onion pakora,Bhaji,snack,pan-india,1,5 pieces,80,352,8.6,30.0,4.0,22.0,5.0,3.0,480
+Paneer pakora,,snack,north,1,3 pieces,90,318,13.0,18.0,2.2,22.0,9.0,2.0,460
+Patra,,snack,gujarat,1,3 pieces,90,208,5.4,26.0,3.6,9.0,2.0,4.4,400
+"Popcorn, plain air-popped",,snack,pan-india,1,25 g,25,387,12.9,78.0,14.5,4.5,0.6,0.9,8
+Roasted chana (dry),,snack,pan-india,1,30 g,30,364,22.0,58.0,18.0,5.2,0.7,5.0,25
+Sabudana vada,,snack,maharashtra,1,2 pieces,80,330,4.2,40.0,2.0,17.0,3.0,1.4,360
+Spring roll (veg),,snack,pan-india,1,2 pieces,100,268,5.0,32.0,2.4,13.0,3.0,3.0,560
+Aloo chaat,,street,north,1,1 plate,150,186,3.0,25.0,2.6,8.4,2.0,3.2,480
+Aloo tikki (2 pieces),,street,north,1,2 pieces,120,214,3.2,26.0,2.6,10.8,2.6,1.8,440
+Bhel puri,,street,maharashtra,1,1 plate,120,224,5.0,36.0,3.2,6.8,1.6,6.0,560
+Chicken kathi roll,,street,east,0,1 roll,200,244,13.4,26.0,1.8,10.2,3.4,2.4,580
+Chicken shawarma roll,,street,pan-india,0,1 roll,220,232,14.0,24.0,1.6,9.0,2.8,2.8,620
+Chole bhature (1 plate),,street,punjab,1,1 plate,350,262,7.4,32.0,4.4,11.8,4.4,3.0,560
+Chole kulche,,street,punjab,1,1 plate,300,238,7.6,32.0,4.6,9.0,3.2,3.2,540
+Dabeli,,street,gujarat,1,1 dabeli,120,276,5.6,36.0,2.8,12.2,4.0,6.0,540
+Dahi puri,,street,maharashtra,1,1 plate,140,232,5.6,30.0,2.4,10.0,3.2,6.6,520
+Egg roll,,street,east,0,1 roll,180,252,9.6,27.0,1.6,11.8,4.2,2.4,540
+Frankie / veg roll,,street,maharashtra,1,1 roll,180,238,6.4,30.0,2.4,10.0,3.0,3.0,560
+Kachori,,street,rajasthan,1,1 kachori,55,368,8.0,36.0,3.4,21.0,8.0,1.4,460
+Kathi paneer roll,,street,north,1,1 roll,200,250,10.0,26.0,2.0,11.8,5.4,2.8,540
+Misal pav,,street,maharashtra,1,1 plate,300,168,6.6,21.0,4.6,6.4,2.4,2.4,540
+"Momos, steamed chicken (6)",,street,pan-india,0,6 pieces,150,196,10.4,24.0,1.4,6.2,1.8,1.8,460
+"Momos, steamed veg (6)",,street,pan-india,1,6 pieces,150,168,5.0,26.0,2.0,4.6,1.2,2.0,420
+Pani puri (6 pieces),Golgappa,street,pan-india,1,6 pieces,90,168,3.4,26.0,2.2,5.6,1.4,3.0,480
+Papdi chaat,,street,north,1,1 plate,150,248,5.4,30.0,2.8,11.6,3.4,6.0,560
+Pav bhaji (bhaji only),,street,maharashtra,1,1 katori,180,126,2.6,14.0,3.2,6.8,3.6,3.6,420
+Pav bhaji (full plate),,street,maharashtra,1,1 plate,300,180,4.4,24.0,3.0,7.4,3.8,3.6,520
+Samosa,,street,pan-india,1,1 samosa,60,308,5.2,32.0,2.6,17.6,7.0,1.8,420
+Sev puri,,street,maharashtra,1,1 plate,120,286,5.6,34.0,3.0,14.0,3.4,5.4,580
+Vada pav,,street,maharashtra,1,1 vada pav,130,286,6.4,38.0,2.8,12.0,4.6,3.2,520
+Barfi (milk),,sweet,pan-india,1,2 pieces,50,398,9.4,50.0,0.3,17.6,10.8,45.0,80
+Besan laddoo,,sweet,pan-india,1,1 laddoo,40,468,9.0,52.0,4.0,25.0,13.0,36.0,45
+Chikki (groundnut),,sweet,maharashtra,1,30 g,30,478,13.0,54.0,4.0,24.0,4.4,44.0,40
+Gajar halwa,,sweet,punjab,1,1 katori,100,278,4.6,34.0,2.2,14.0,8.4,28.0,70
+Gud (jaggery),,sweet,pan-india,1,1 tbsp,15,383,0.4,98.0,0.0,0.1,0.0,90.0,30
+Gulab jamun,,sweet,pan-india,1,2 pieces,80,336,4.6,48.0,0.6,14.6,7.6,38.0,90
+"Halwa, atta",,sweet,punjab,1,1 katori,100,382,6.0,50.0,2.4,18.0,11.0,26.0,55
+"Ice cream, vanilla",,sweet,pan-india,1,1 scoop,60,207,3.5,24.0,0.7,11.0,6.8,21.0,80
+Jalebi,,sweet,pan-india,1,2 pieces,60,392,2.0,58.0,0.4,17.0,7.0,52.0,60
+Kaju katli,,sweet,pan-india,1,3 pieces,30,478,10.0,52.0,1.6,26.0,6.0,44.0,30
+Kesari bath,,sweet,karnataka,1,1 katori,120,338,4.2,52.0,1.0,12.4,7.0,30.0,120
+Kheer (rice),Payasam,sweet,pan-india,1,1 katori,150,148,3.8,22.0,0.4,4.8,2.9,16.0,60
+Malpua,,sweet,east,1,1 piece,50,388,5.0,50.0,0.8,19.0,8.4,34.0,70
+Mishti doi,,sweet,east,1,1 katori,100,196,5.0,32.0,0.0,5.4,3.4,29.0,70
+Modak (steamed),,sweet,maharashtra,1,2 pieces,80,282,4.4,44.0,2.6,10.0,7.0,24.0,50
+Moong dal halwa,,sweet,rajasthan,1,1 katori,100,428,8.0,50.0,3.0,22.0,13.0,32.0,60
+Motichoor laddoo,,sweet,north,1,1 laddoo,45,440,5.4,58.0,1.4,21.0,10.0,44.0,55
+Mysore pak,,sweet,karnataka,1,1 piece,30,560,6.0,52.0,2.0,36.0,22.0,44.0,40
+Peda,,sweet,pan-india,1,2 pieces,40,412,9.0,54.0,0.2,18.0,11.0,48.0,80
+Puran poli with ghee,,sweet,maharashtra,1,1 piece,90,366,7.0,54.0,3.4,13.4,7.6,22.0,90
+Rasgulla,,sweet,east,1,2 pieces,100,186,4.0,38.0,0.2,2.6,1.6,36.0,60
+Rasmalai,,sweet,east,1,2 pieces,120,268,7.4,32.0,0.3,12.4,7.6,30.0,90
+Sandesh,,sweet,east,1,2 pieces,60,318,12.0,34.0,0.2,14.0,8.6,30.0,80
+Sevai kheer,,sweet,pan-india,1,1 katori,150,162,4.2,25.0,0.5,5.0,3.0,17.0,60
+Shrikhand,,sweet,gujarat,1,1 katori,100,262,6.4,34.0,0.2,11.0,7.0,31.0,70
+Sooji halwa,,sweet,pan-india,1,1 katori,100,346,4.6,52.0,1.2,13.4,7.8,30.0,60
+Beetroot,Chukandar,vegetable,pan-india,1,1 medium,100,43,1.6,9.6,2.8,0.2,0.0,6.8,78
+Bitter gourd,Karela,vegetable,pan-india,1,1 katori,100,17,1.0,3.7,2.8,0.2,0.0,1.9,5
+Bottle gourd,Lauki,vegetable,pan-india,1,1 katori,100,14,0.6,3.4,0.5,0.0,0.0,1.4,2
+Brinjal,Baingan,vegetable,pan-india,1,1 medium,100,25,1.0,5.9,3.0,0.2,0.0,3.5,2
+"Cabbage, raw",Patta gobi,vegetable,pan-india,1,1 katori,100,25,1.3,5.8,2.5,0.1,0.0,3.2,18
+Capsicum,Shimla mirch,vegetable,pan-india,1,1 medium,100,26,1.0,6.0,2.1,0.3,0.1,4.2,4
+"Carrot, raw",Gajar,vegetable,pan-india,1,1 medium,80,41,0.9,9.6,2.8,0.2,0.0,4.7,69
+"Cauliflower, raw",Gobi,vegetable,pan-india,1,1 katori,100,25,1.9,5.0,2.0,0.3,0.1,1.9,30
+Cucumber,Kheera,vegetable,pan-india,1,1 medium,150,15,0.7,3.6,0.5,0.1,0.0,1.7,2
+Drumstick,Sahjan,vegetable,south,1,2 pieces,80,37,2.1,8.5,3.2,0.2,0.0,1.5,42
+Green peas,Matar,vegetable,pan-india,1,1 katori,100,81,5.4,14.5,5.1,0.4,0.1,5.7,5
+Green salad (kachumber),,vegetable,pan-india,1,1 katori,120,28,1.1,6.0,1.6,0.2,0.0,3.2,180
+"Lady finger, raw",Bhindi,vegetable,pan-india,1,1 katori,100,33,1.9,7.5,3.2,0.2,0.0,1.5,7
+"Onion, raw",Pyaaz,vegetable,pan-india,1,1 medium,100,40,1.1,9.3,1.7,0.1,0.0,4.2,4
+"Potato, boiled",Aloo,vegetable,pan-india,1,1 medium,100,87,1.9,20.1,1.8,0.1,0.0,0.9,4
+"Spinach, raw",Palak,vegetable,pan-india,1,1 katori,100,23,2.9,3.6,2.2,0.4,0.1,0.4,79
+"Sweet potato, boiled",Shakarkandi,vegetable,pan-india,1,1 medium,130,90,2.0,20.7,3.3,0.2,0.1,6.5,36
+"Tomato, raw",Tamatar,vegetable,pan-india,1,1 medium,100,18,0.9,3.9,1.2,0.2,0.0,2.6,5
